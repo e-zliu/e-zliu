@@ -50,14 +50,41 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+<!-- Microsoft SC-200 -->
+<img src="https://img.shields.io/badge/Microsoft-SC--200%20Security%20Operations%20Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+<br>  
+
+<!-- CompTIA Security+ -->
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-EF3E42?style=for-the-badge&logo=comptia&logoColor=white" />
+
+<br>
+
+<!-- Blue Team Level 1 -->
+<img src="https://img.shields.io/badge/Security%20Blue%20Team-BTL1-1E3A8A?style=for-the-badge&logo=shield&logoColor=white" />
+
+<br>
+
+<!-- TryHackMe SAL1 -->
+<img src="https://img.shields.io/badge/TryHackMe-Security%20Analyst%20Level%201-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+
+<br>
+
+<!-- AWS Cloud Practitioner -->
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<br>
+
+<!-- AWS AI Practitioner -->
+<img src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
 </div>
+
+
+
+
 
 ## Projects
 - Detection Lab
