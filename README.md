@@ -1,52 +1,73 @@
-# Hello, I'm Eric! 👋 It's nice to meet you.
+# Hello, I'm Eric! 👋
 <div>
 <a href="https://www.linkedin.com/in/eric-z-liu/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://ericzliu.tech/resume/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Resume-1F2937?style=for-the-badge&logo=googledocs&logoColor=white" />
 </a>
 </div>
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+**Security Analyst | Microsoft Defender & Sentinel | KQL | Threat Detection**
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## What I Do
+Focused on **security operations, threat detection, and investigation workflows** within Microsoft security environments.
+- Investigate security alerts using **Microsoft Defender XDR**
+- Analyze security telemetry using **KQL in Sentinel and Advanced Hunting**
+- Develop **detection logic and investigation playbooks**
+- Simulate attacks and validate detections using **Atomic Red Team**
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am actively building toward **Security Analyst / Security Operations Engineer roles** with a focus on **detection engineering and cloud telemetry analysis**.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+### 🔍 Sentinel Detection & Investigation Lab
+- Deployed a Microsoft Sentinel lab environment with simulated identity and endpoint telemetry
+- Used **Atomic Red Team** to simulate attack techniques (credential access, privilege escalation)
+- Developed **KQL queries** to identify abnormal authentication and endpoint behavior
+- Built **custom detections** and validated alert logic against simulated attacks
+- Documented full investigation workflows including triage, analysis, and response
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+---
 
-### Network
+### 🛡️ SOC Workflow & Case Investigation Project
+- Simulated real-world SOC investigations using structured alert triage workflows
+- Created **alert-specific investigation playbooks** with step-by-step analysis procedures
+- Performed log analysis across endpoint and identity data sources
+- Produced **case reports** documenting findings, root cause, and recommended actions
+
+---
+
+### ⚙️ Detection Tuning & Alert Optimization (Ongoing)
+- Improving detection quality by analyzing alert fidelity and reducing false positives
+- Building a **KQL query library** for reusable investigation workflows
+- Developing detection improvements based on observed telemetry patterns
+
+## Core Skills
+- Security Alert Triage & Investigation  
+- KQL Query Development (Microsoft Sentinel / Defender)  
+- Threat Hunting & Telemetry Analysis  
+- Detection Development & Alert Tuning  
+- Incident Analysis & Case Documentation  
+
+## Tools & Technologies
+
+### SIEM & Detection
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint & Investigation
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### Network Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ## Certifications
